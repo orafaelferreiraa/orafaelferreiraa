@@ -6,11 +6,11 @@
 
 </br>
 
-With over a decade of experience in IT and 17 technical certifications, I am a Cloud Architect, graduated in Computer Science from UNIP Bauru. Commitment to effective communication, adaptability, and constant search for innovation. In the last 3 years, I started my studies in cloud technologies, and 1 year ago I directed my focus to DevOps, discovering new opportunities and challenges that boosted my professional growth.
+Com mais de uma década de experiência em TI e 17 certificações técnicas, sou um Arquiteto de Nuvem, formado em Ciência da Computação pela UNIP Bauru. Compromisso em comunicação eficaz, adaptabilidade e constante busca por inovação. Nos últimos 3 anos, comecei meus estudos em tecnologias de nuvem e a 1 ano direcionei o foco para DevOps, descobrindo novas oportunidades e desafios que impulsionaram meu crescimento profissional.
 
-Currently, I am deepening my knowledge in DevOps, using and studying the latest tools in the market. AWS and OCI as cloud platforms. Azure DevOps, GitLab, Jenkins, and GitHub Actions for automation of CI/CD pipelines, all using YAML files. I have also worked with Terraform and Ansible to implement infrastructure as code, and Docker and Kubernetes for microservices orchestration. Using GitOps: Git for version control, GitHub, GitLab, and ArgoCD. I have experience in Windows and Linux operating systems and script automation with PowerShell and am currently expanding my knowledge in Python.
+Atualmente, estou aprofundando meus conhecimentos em DevOps, utilizando e estudando as ferramentas mais recentes do mercado. AWS e a OCI como plataformas de nuvem. Azure DevOps, GitLab, Jenkins e GitHub Actions para automação de pipelines CI/CD, todos com uso de arquivos YAML. Também tenho trabalhado com Terraform e Ansible para implementar a infraestrutura como código, além de Docker e Kubernetes para orquestração de microserviços. Utilização de GitOps: Git para controle de versão, GitHub, GitLab e ArgoCD. Tenho experiência em sistemas operacionais Windows e Linux e na automação de scripts com PowerShell, estando atualmente expandindo meus conhecimentos em Python.
 
-I have skills in monitoring and observability using Prometheus, Grafana, Zabbix, and Datadog. I am committed to delivering effective and modern solutions, always in line with industry best practices. My goal is to continuously improve my skills and provide the best possible customer experience.
+Possuo habilidades em monitoramento e observabilidade utilizando Prometheus, Grafana, Zabbix e Datadog. Estou comprometido em entregar soluções eficazes e modernas, sempre alinhadas com as melhores práticas do setor. Minha meta é aperfeiçoar continuamente minhas habilidades e fornecer a melhor experiência possível para os clientes.
 
 <!--
 **rafaferreira011/rafaferreira011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
