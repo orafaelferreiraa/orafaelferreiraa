@@ -1,14 +1,6 @@
 ### Hi there 👋!
 
-<p align="center">
-<img src="assets/images/banner.png">
-</p>
-
 ![capa linkedin](https://github.com/rafaferreira011/rafaferreira011/assets/117859338/e96622bd-fe8d-405e-a41e-2f0c25ad2fd8)
-
-
-[capa linkedin](https://github.com/rafaferreira011/rafaferreira011/assets/117859338/e478c996-b58b-4531-878c-d7de39a4d418)
-
 
 
 With over a decade of experience in IT and 17 technical certifications, I am a Cloud Architect, graduated in Computer Science from UNIP Bauru. Commitment to effective communication, adaptability, and constant search for innovation. In the last 3 years, I started my studies in cloud technologies, and 1 year ago I directed my focus to DevOps, discovering new opportunities and challenges that boosted my professional growth.
