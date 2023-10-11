@@ -1,5 +1,9 @@
 ### Hi there 👋!
 
+<p align="center">
+<img src="[assets/images/banner.png](https://github.com/rafaferreira011/rafaferreira011/assets/117859338/e478c996-b58b-4531-878c-d7de39a4d418)">
+</p>
+
 [capa linkedin](https://github.com/rafaferreira011/rafaferreira011/assets/117859338/e478c996-b58b-4531-878c-d7de39a4d418)
 
 
