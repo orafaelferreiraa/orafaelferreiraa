@@ -1,5 +1,11 @@
 ### Hi there 👋!
 
+<b>
+<b>
+<b>
+<b>
+
+
 ![capa linkedin](https://github.com/rafaferreira011/rafaferreira011/assets/117859338/e96622bd-fe8d-405e-a41e-2f0c25ad2fd8)
 
 
