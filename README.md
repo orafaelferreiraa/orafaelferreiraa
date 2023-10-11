@@ -4,6 +4,9 @@
 <img src="assets/images/banner.png">
 </p>
 
+![capa linkedin](https://github.com/rafaferreira011/rafaferreira011/assets/117859338/e96622bd-fe8d-405e-a41e-2f0c25ad2fd8)
+
+
 [capa linkedin](https://github.com/rafaferreira011/rafaferreira011/assets/117859338/e478c996-b58b-4531-878c-d7de39a4d418)
 
 
