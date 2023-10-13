@@ -12,6 +12,13 @@ Atualmente, estou aprofundando meus conhecimentos em DevOps, utilizando e estuda
 
 Possuo habilidades em monitoramento e observabilidade utilizando Prometheus, Grafana, Zabbix e Datadog. Estou comprometido em entregar soluções eficazes e modernas, sempre alinhadas com as melhores práticas do setor. Minha meta é aperfeiçoar continuamente minhas habilidades e fornecer a melhor experiência possível para os clientes.
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/rafaelmaferreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=fflat&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="AZURE"><img src="https://img.shields.io/badge/-Microsoft%20Azure-2C6CFB?style=flat&logo=MicrosoftAzure&logoColor=white"></a>
+  <a href="TERRAFORM"><img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white"></a>
+  <a href="KUBERNETES"><img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=3C93FF"></a>
+
+</p>
 <div> 
   <a href="https://www.linkedin.com/in/rafaelmaferreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=fflat&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
