@@ -12,6 +12,10 @@ Atualmente, estou aprofundando meus conhecimentos em DevOps, utilizando e estuda
 
 Possuo habilidades em monitoramento e observabilidade utilizando Prometheus, Grafana, Zabbix e Datadog. Estou comprometido em entregar soluções eficazes e modernas, sempre alinhadas com as melhores práticas do setor. Minha meta é aperfeiçoar continuamente minhas habilidades e fornecer a melhor experiência possível para os clientes.
 
+<div> 
+  <a href="https://www.linkedin.com/in/rafaelmaferreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=fflat&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
 <!--
 **rafaferreira011/rafaferreira011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
