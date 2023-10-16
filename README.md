@@ -14,15 +14,14 @@ Possuo habilidades em monitoramento e observabilidade utilizando Prometheus, Gra
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rafaelmaferreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=fflat&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="MICROSOFT_LINK"><img src="https://img.shields.io/badge/-Microsoft-0078D7?style=flat&logo=Microsoft&logoColor=white"></a>
   <a href="AZURE"><img src="https://img.shields.io/badge/-Microsoft%20Azure-2C6CFB?style=flat&logo=MicrosoftAzure&logoColor=white"></a>
+  <a href="AZURE_DEVOPS_LINK"><img src="https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat&logo=AzureDevOps&logoColor=white"></a>
   <a href="TERRAFORM"><img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white"></a>
   <a href="KUBERNETES"><img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=3C93FF"></a>
-  <a href="DOCKER"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=terraform&logoColor=white"></a>
+  <a href="DOCKER"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white"></a>
 
 </p>
-<div> 
-  <a href="https://www.linkedin.com/in/rafaelmaferreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=fflat&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
 
 <!--
 **rafaferreira011/rafaferreira011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
