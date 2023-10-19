@@ -48,6 +48,7 @@ Possuo habilidades em monitoramento e observabilidade utilizando Prometheus, Gra
 [![Microsoft 365 Certified: Fundamentals](https://images.credly.com/size/96x96/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png)](https://www.credly.com/badges/a66bba22-3ec0-4812-9521-fde9d60c12dd/public_url "Microsoft 365 Certified: Fundamentals")
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/96x96/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/cc2090a8-2445-4cee-ba0a-ef398c636f33/public_url "AWS Certified Cloud Practitioner")
 [![FOCP: FinOps Certified Practitioner](https://images.credly.com/size/96x96/images/08a5010a-0c0a-448c-981e-c116fedd380c/image.png)](https://www.credly.com/badges/d77d284c-7992-4721-bc6f-e21df5183743/public_url "FOCP: FinOps Certified Practitioner")
+[![ITIL v3 Foundation](https://images.credly.com/size/96x96/images/6c9b2a4b-91d5-4093-919a-7eb81cfe74ba/ITIL_Foundation.png)](https://zr62v-my.sharepoint.com/:b:/g/personal/rafael_ferreira_maferreira94_online/Ef0vVMgkhN1Ih5iqMMDCPCUBvxPS3K7TB25cj7V0_2382w?e=LJsOid "ITIL v3 Foundation")
 </div>
 <!--END_SECTION:badges-->
 
