@@ -56,8 +56,8 @@ Possuo habilidades em monitoramento e observabilidade utilizando Prometheus, Gra
 [![Exam 742: Identity with Windows Server 2016](https://images.credly.com/size/100x100/images/b1471587-2606-4952-b334-953e46291dcd/Microsoft_Exam742.png)](https://www.credly.com/earner/earned/badge/29dd4c02-8dcd-4477-bad6-70bc0ac51555 "Exam 742: Identity with Windows Server 2016")
 [![Exam 741: Networking with Windows Server 2016](https://images.credly.com/size/100x100/images/b1471587-2606-4952-b334-953e46291dcd/Microsoft_Exam742.png)](https://www.credly.com/earner/earned/badge/2425ba25-801a-4e59-b597-b1184d5c2ba8 "Exam 741: Networking with Windows Server 2016")
 [![Exam 740: Installation, Storage and Compute with Windows Server 2016](https://images.credly.com/size/100x100/images/4deb8cf5-898a-4c1e-aab5-7ee81d5d02f9/Microsoft_Exam740.png)](https://www.credly.com/earner/earned/badge/89ea7157-4cd1-4299-b431-23e30e35af1c "Exam 740: Installation, Storage and Compute with Windows Server 2016")
-[![MD-101: Managing Modern Desktops](https://images.credly.com/size/112x112/images/abf489f7-c482-4632-98de-87a8f3fc5db7/exam-md101-600x600.png)](https://www.credly.com/earner/earned/badge/48b27123-b7a8-4ea8-876e-5529a1d7888c "MD-101: Managing Modern Desktops")
-[![MD-100: Windows Client](https://images.credly.com/size/112x112/images/69278d25-c54c-46a2-b1f6-836c6b2a260b/exam-md100-600x600.png)](https://www.credly.com/earner/earned/badge/3c0e967e-4f24-414f-bbd0-5de55bb3e2a5 "MD-100: Windows Client")
+[![MD-101: Managing Modern Desktops](https://images.credly.com/size/102x102/images/abf489f7-c482-4632-98de-87a8f3fc5db7/exam-md101-600x600.png)](https://www.credly.com/earner/earned/badge/48b27123-b7a8-4ea8-876e-5529a1d7888c "MD-101: Managing Modern Desktops")
+[![MD-100: Windows Client](https://images.credly.com/size/102x102/images/69278d25-c54c-46a2-b1f6-836c6b2a260b/exam-md100-600x600.png)](https://www.credly.com/earner/earned/badge/3c0e967e-4f24-414f-bbd0-5de55bb3e2a5 "MD-100: Windows Client")
 </div>
 <!--END_SECTION:badges-->
 
