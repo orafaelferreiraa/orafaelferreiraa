@@ -6,15 +6,24 @@
 
 </br>
 
-Com mais de uma década de experiência em TI e 17 certificações técnicas, sou um **Cloud Solution Architect** formado em Ciência da Computação pela UNIP Bauru. Tenho um compromisso com a comunicação eficaz, adaptabilidade e uma constante busca por inovação. Nos últimos 3 anos, direcionei meus estudos para tecnologias de nuvem e DevOps, descobrindo novas oportunidades que impulsionaram meu crescimento profissional.
+Com mais de uma década de experiência em TI e 17 certificações técnicas, sou um Arquiteto de Nuvem apaixonado pela tecnologia e pela constante evolução que ela nos proporciona. Formado em Ciência da Computação pela UNIP Bauru, tenho compromisso com a comunicação eficaz, flexibilidade e inovação, valores que guiam minha trajetória profissional.
 
-Estou aprofundando meus conhecimentos em DevOps, estudando as ferramentas mais recentes do mercado como AWS, OCI, Azure DevOps, GitLab, Jenkins, GitHub Actions, Terraform, Ansible, Docker, Kubernetes e GitOps. Com experiência em sistemas operacionais Windows e Linux, e automação de scripts com PowerShell, estou atualmente expandindo meus conhecimentos em Python.
+Nos últimos três anos, foquei em tecnologias de nuvem e, recentemente, em DevOps, me especializando em Microsoft Azure, Azure DevOps, Terraform e Kubernetes. Essa jornada me apresentou a novas oportunidades e desafios que foram fundamentais para o meu crescimento profissional.
 
-Possuo habilidades em monitoramento e observabilidade utilizando Prometheus, Grafana, Zabbix e Datadog. Estou comprometido em entregar soluções eficazes e modernas, sempre alinhadas com as melhores práticas do setor. Minha meta é aperfeiçoar continuamente minhas habilidades e fornecer a melhor experiência possível para os clientes.
+Minha caixa de ferramentas inclui AWS e OCI como plataformas de nuvem, além de Azure DevOps, GitLab, Jenkins e GitHub Actions para automação de pipelines CI/CD, todos com uso de arquivos YAML. Na implementação de infraestrutura como código, conto com Terraform e Ansible, enquanto Docker e Kubernetes são minhas escolhas para orquestração de microserviços. Utilizo GitOps com Git para controle de versão, GitHub, GitLab e ArgoCD. Minha experiência abrange sistemas operacionais Windows e Linux, e estou expandindo meus conhecimentos em Python, somando à minha habilidade com automação de scripts em PowerShell.
+
+Além disso, possuo habilidades em monitoramento e observabilidade, utilizando ferramentas como Prometheus, Grafana, Zabbix e Datadog. Meu compromisso é entregar soluções eficazes, modernas e alinhadas às melhores práticas do setor. Meu objetivo é aperfeiçoar continuamente minhas habilidades, oferecendo sempre a melhor experiência possível para os clientes e contribuindo para um mundo mais conectado e inovador.
+
+No lado pessoal, sou um grande fã de cinema 🎬 e séries 📺, com um carinho especial por filmes da Marvel 🦸‍♂️ e Harry Potter 🧙‍♂️. Nas horas vagas, me divirto jogando videogames 🎮. Além disso, amo conhecer o novo, viajar e explorar lugares novos 🌎.
 
 <div align="center">
+<a href="https://www.linkedin.com/in/rafaelmaferreira/" target="_blank"> <img src="https://user-images.githubusercontent.com/14919667/199814903-f6bedfe8-9c03-46b8-9abc-897a46645089.png" alt="Rafael Martin Alves Ferreira on LinkedIn" /></a>
   <b>
-  <a href="https://www.linkedin.com/in/rafaelmaferreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=fflat&logo=linkedin&logoColor=white" target="_blank"></a>
+    
+  </div>
+</b>
+<div align="center">
+  <b>
   <a href="MICROSOFT_LINK"><img src="https://img.shields.io/badge/-Microsoft-0078D7?style=flat&logo=Microsoft&logoColor=white"></a>
   <a href="AZURE"><img src="https://img.shields.io/badge/Azure-2C6CFB?style=flat&logo=MicrosoftAzure&logoColor=white"></a>
   <a href="AZURE_DEVOPS_LINK"><img src="https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat&logo=AzureDevOps&logoColor=white"></a>
