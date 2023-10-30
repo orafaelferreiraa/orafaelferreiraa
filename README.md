@@ -14,7 +14,7 @@ Minha caixa de ferramentas inclui AWS e OCI como plataformas de nuvem, além de 
 
 Além disso, possuo habilidades em monitoramento e observabilidade, utilizando ferramentas como Prometheus, Grafana, Zabbix e Datadog. Meu compromisso é entregar soluções eficazes, modernas e alinhadas às melhores práticas do setor. Meu objetivo é aperfeiçoar continuamente minhas habilidades, oferecendo sempre a melhor experiência possível para os clientes e contribuindo para um mundo mais conectado e inovador.
 
-No lado pessoal, sou um grande fã de cinema 🎬 e séries 📺, com um carinho especial por filmes da Marvel 🦸‍♂️ e Harry Potter 🧙‍♂️. Nas horas vagas, me divirto jogando videogames 🎮. Além disso, amo conhecer o novo, viajar e explorar lugares novos 🌎.
+No lado pessoal, sou pai de uma golden 🐕, grande fã de cinema 🎬 e séries 📺, com um carinho especial por filmes de super-heróis 🦸‍♂️ e Harry Potter 🧙‍♂️. Nas horas vagas, me divirto jogando videogames 🎮. Além disso, amo conhecer o novo, viajar e explorar lugares diferentes 🌎.
 
 <div align="center">
 <a href="https://www.linkedin.com/in/rafaelmaferreira/" target="_blank"> <img src="https://user-images.githubusercontent.com/14919667/199814903-f6bedfe8-9c03-46b8-9abc-897a46645089.png" alt="Rafael Martin Alves Ferreira on LinkedIn" /></a>
