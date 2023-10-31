@@ -16,6 +16,8 @@ Além disso, possuo habilidades em monitoramento e observabilidade, utilizando f
 
 No lado pessoal, sou pai de uma golden 🐕, grande fã de cinema 🎬 e séries 📺, com um carinho especial por filmes de super-heróis 🦸‍♂️ e Harry Potter 🧙‍♂️. Nas horas vagas, me divirto jogando videogames 🎮. Além disso, amo conhecer o novo, viajar e explorar lugares diferentes 🌎.
 
+Se você deseja discutir tópicos profissionais, explorar oportunidades de carreira ou simplesmente ter um bate-papo sobre a vida, fique à vontade para agendar um horário na minha agenda. Será um prazer conversar com você e compartilhar insights e orientações. Basta clicar no [Link da Agenda Goole](https://calendar.google.com/calendar/appointments/schedules/AcZssZ2aD2pXGPflv2Q5kf_3QXCUpZgVVwj4CdJK5xUXJsDU1PsjO4bYIl1ECDo7c47ygMnXdwoP-7aI?gv=true) para reservar um horário conveniente.
+
 <div align="center">
 <a href="https://www.linkedin.com/in/rafaelmaferreira/" target="_blank"> <img src="https://user-images.githubusercontent.com/14919667/199814903-f6bedfe8-9c03-46b8-9abc-897a46645089.png" alt="Rafael Martin Alves Ferreira on LinkedIn" /></a>
   <b>
@@ -71,6 +73,7 @@ No lado pessoal, sou pai de uma golden 🐕, grande fã de cinema 🎬 e séries
 
 </div>
 <!--END_SECTION:badges-->
+
 
 <!--
 **rafaferreira011/rafaferreira011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
