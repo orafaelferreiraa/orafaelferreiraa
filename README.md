@@ -33,7 +33,8 @@ Se você deseja discutir tópicos profissionais, explorar oportunidades de carre
   <a href="AZURE_DEVOPS_LINK"><img src="https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat&logo=AzureDevOps&logoColor=white"></a>
   <a href="TERRAFORM"><img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white"></a>
   <a href="KUBERNETES"><img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=3C93FF"></a>
-  <a href="DOCKER"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white"></a>
+  <a href="DOCKER"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white"></
+a>
   <a href="PROMETHEUS_LINK"><img src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white"></a>
   <a href="GRAFANA_LINK"><img src="https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=Grafana&logoColor=white"></a>
   </b>
