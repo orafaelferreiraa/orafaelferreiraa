@@ -1,8 +1,6 @@
 ## Hello Folks 👋!
 
-<br>![capa Linkedin](https://github.com/user-attachments/assets/07447ddc-78cf-43d9-b05d-1e9cff7dd44b)
-
-</br>
+</br>![capa Linkedin (1)](https://github.com/user-attachments/assets/2a9a8866-8bd1-4145-9519-e672bc6177a8)
 
 Olá muito prazer, sou o Rafael, um cara de bom humor e muito curioso. Desde pequeno sempre gostei de saber o por que e de como as coisas funcionam. Aos meus nove anos ganhei meu primeiro computador e com ele pude descobrir como tornar o impossível, possível.
 
