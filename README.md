@@ -1,6 +1,6 @@
 ## Hello Folks 👋!
 
-<br>![capa Linkedin psd ](https://github.com/rafaelmaferreira/rafaelmaferreira/assets/117859338/9cb9eee3-5907-4ed2-80c0-135cd0b32d9a)
+<br>![capa Linkedin](https://github.com/user-attachments/assets/07447ddc-78cf-43d9-b05d-1e9cff7dd44b)
 
 </br>
 
