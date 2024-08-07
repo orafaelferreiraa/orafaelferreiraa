@@ -36,8 +36,7 @@ div>
   <a href="DOCKER"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white"></
 a>
   <a href="PROMETHEUS_LINK"><img src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white"></a>
-  <a href="GRAFANA_LINK"><
-img src="https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=Grafana&logoColor=white"></a>
+  <a href="GRAFANA_LINK"><img src="https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=Grafana&logoColor=white"></a>
   </b>
 </div>
   
