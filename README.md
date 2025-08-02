@@ -1,9 +1,6 @@
 ## Hello Folks 👋!
 
-<br>![Capa Linkedin](https://github.com/user-attachments/assets/31de9589-10e7-47a6-8012-83a00888a5cf)
-
-
-<img width="1400" height="349" alt="Capa Linkedin" src="https://github.com/user-attachments/assets/b714d33c-81a8-4285-88fb-b28ed3416e67" />
+<br><img width="1400" height="349" alt="Capa Linkedin" src="https://github.com/user-attachments/assets/b714d33c-81a8-4285-88fb-b28ed3416e67" />
 
 Olá muito prazer, sou o Rafael, um cara de bom humor e muito curioso. Desde pequeno sempre gostei de saber o por que e de como as coisas funcionam. Aos meus nove anos ganhei meu primeiro computador e com ele pude descobrir como tornar o impossível, possível.
 
