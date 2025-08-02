@@ -3,6 +3,8 @@
 <br>![Capa Linkedin](https://github.com/user-attachments/assets/31de9589-10e7-47a6-8012-83a00888a5cf)
 
 
+<img width="1400" height="349" alt="Capa Linkedin" src="https://github.com/user-attachments/assets/b714d33c-81a8-4285-88fb-b28ed3416e67" />
+
 Olá muito prazer, sou o Rafael, um cara de bom humor e muito curioso. Desde pequeno sempre gostei de saber o por que e de como as coisas funcionam. Aos meus nove anos ganhei meu primeiro computador e com ele pude descobrir como tornar o impossível, possível.
 
 Com mais de uma década de experiência em tecnologia, 18 certificações técnicas, formado em Ciência da Computação, atuo como Engenheiro DevOps com especialização arquiteturas em nuvem Azure. Atualmente Microsoft MVP (Microsoft Most Valuable Professional) & MCT (Microsoft Certified Trainer), DevOps Institute Ambassador, Alura Star e Green Software Foundation. Experiência em empresas multinacionais, consultorias e ambientes corporativos internacionais. Minha carreira é direcionada em conduzir a transformação digital por meios de soluções de nuvem inovadoras que atendem às exigências de um mercado em constante evolução.
