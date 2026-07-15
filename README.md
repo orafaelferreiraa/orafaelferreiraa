@@ -41,9 +41,7 @@ Decidi dar um passo a mais na carreira e comecei a palestrar, pois nada mais nob
 <div align="center">
 <h2> Certificações </h2>
   
-[![2025 Microsoft Most Valuable Professional (MVP)](https://images.credly.com/images/c4da2c74-dd74-4a97-a433-d8c21f06ca65/blob)](https://www.credly.com/badges/24b7565e-0e16-4f33-a6c9-3f7c91fbe1b0/public_url "2025 Microsoft Most Valuable Professional (MVP")
-
-[![2025 Microsoft Most Valuable Professional (MVP)](https://images.credly.com/size/340x340/images/00e5354b-b9fc-4bef-8732-59b419a7c16b/blob)](https://www.credly.com/badges/24b7565e-0e16-4f33-a6c9-3f7c91fbe1b0/public_url "2025 Microsoft Most Valuable Professional (MVP")
+[![2026 Microsoft Most Valuable Professional (MVP)](https://images.credly.com/images/c4da2c74-dd74-4a97-a433-d8c21f06ca65/blob)](https://www.credly.com/badges/24b7565e-0e16-4f33-a6c9-3f7c91fbe1b0/public_url "2026 Microsoft Most Valuable Professional (MVP")
 
 [![CKA: Certified Kubernetes Administrator](https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](https://www.credly.com/badges/975ca65a-c51f-4c70-93d7-85972773c0fd/public_url "CKA: Certified Kubernetes Administrator")
 
