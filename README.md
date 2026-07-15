@@ -41,7 +41,7 @@ Decidi dar um passo a mais na carreira e comecei a palestrar, pois nada mais nob
 <div align="center">
 <h2> Certificações </h2>
   
-
+[![2025 Microsoft Most Valuable Professional (MVP)](https://images.credly.com/images/c4da2c74-dd74-4a97-a433-d8c21f06ca65/blob)](https://www.credly.com/badges/24b7565e-0e16-4f33-a6c9-3f7c91fbe1b0/public_url "2025 Microsoft Most Valuable Professional (MVP")
 
 [![2025 Microsoft Most Valuable Professional (MVP)](https://images.credly.com/size/340x340/images/00e5354b-b9fc-4bef-8732-59b419a7c16b/blob)](https://www.credly.com/badges/24b7565e-0e16-4f33-a6c9-3f7c91fbe1b0/public_url "2025 Microsoft Most Valuable Professional (MVP")
 
